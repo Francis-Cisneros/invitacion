@@ -23,14 +23,14 @@ function App() {
       "Sin ti seria como Luffy sin comida en medio de una pelea contra BigMoon",
   
       description: "Piénsalo de nuevo .",
-      img: "/public/luffy_sad.png",
+      img: "https://i.pinimg.com/236x/8c/87/f1/8c87f104fb7b9b4abaa5e4641eecb5e3.jpg",
     },
     {
       id: 2,
       frase:
         "Así como Milk a Goku, quiero estar a tu lado en cada batalla de la vida, ofreciéndote mi amor y apoyo incondicional en cada momento.",
       description: "Jamas lloraras por una infidelidad",
-      img: "/public/milk_goku.png",
+      img: "https://www.fayerwayer.com/resizer/BJPH_vsihsYmK67xyRqMe31vJls=/800x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/RLSHY26K7RDXZH5OWZLW65YVIM.jpg",
     },
     {
       id: 3,

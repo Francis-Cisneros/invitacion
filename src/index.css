@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;500;600;700;800;900&family=Work+Sans:wght@100;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik+Doodle+Shadow&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fondo {
+  background-image: url("/alter.jpg");
+}
+
+body {
+  font-family: 'Pacifico', cursive, 'Rubik Doodle Shadow', system-ui;
+}
+.titlePrimary {
+  color: #fd4a87;
+  /* background: white; */
+  border-radius: 6px;
+  font-size: 43px;
+}
+
+p.text-white.text-center.mt-2.frase {
+  font-weight: 500;
+  font-size: 16px;
+  border-radius: 68px;
+  padding: 26px;
+  /* background: #e91e67; */
+  margin-top: 30px;
+  color: #4c4b4b;
+}
+img.mx-auto {
+  border-radius: 12px;
+  margin-top: 39px;
+  margin-bottom: 12px;
+}
